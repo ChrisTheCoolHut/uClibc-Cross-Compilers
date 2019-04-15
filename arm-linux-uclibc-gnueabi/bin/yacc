@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/caffix/tools/buildroot/output/host/bin/bison' -y "$@"
